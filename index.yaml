@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   kube-backup:
   - apiVersion: v1
-    created: "2020-05-05T23:53:13.1409097+07:00"
+    created: "2020-05-05T23:54:36.6168639+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -13,10 +13,10 @@ entries:
     sources:
     - https://github.com/arkadym/backup-manager
     urls:
-    - https://arkadym.github.io/helm/packages/kube-backup-1.1.tgz
+    - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2020-05-05T23:53:13.1419066+07:00"
+    created: "2020-05-05T23:54:36.6178611+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -27,6 +27,6 @@ entries:
     sources:
     - https://github.com/arkadym/backup-manager
     urls:
-    - https://arkadym.github.io/helm/packages/kube-backup-1.tgz
+    - https://arkadym.github.io/helm/kube-backup-1.tgz
     version: "1"
-generated: "2020-05-05T23:53:13.1399123+07:00"
+generated: "2020-05-05T23:54:36.6158661+07:00"
