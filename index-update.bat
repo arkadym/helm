@@ -1,1 +1,1 @@
-helm repo index packages/ --url https://arkadym.github.io/helm/
+helm repo index ./ --url https://arkadym.github.io/helm/
