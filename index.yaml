@@ -1,8 +1,24 @@
 apiVersion: v1
 entries:
+  elasticsearch:
+  - apiVersion: v1
+    created: "2020-05-07T00:42:50.3025942+07:00"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
+    digest: 44abb715013f714ddc779ed4857ca7a02185f845c92ef48a778cdf85b88c3596
+    home: https://www.elastic.co/
+    maintainers:
+    - email: company@actonica.ru
+      name: Actonica Containers Team
+    name: elasticsearch
+    sources:
+    - https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/Portus
+    urls:
+    - https://arkadym.github.io/helm/elasticsearch-1.tgz
+    version: "1"
   kube-backup:
   - apiVersion: v1
-    created: "2020-05-05T23:54:36.6168639+07:00"
+    created: "2020-05-07T00:42:50.3096125+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -16,7 +32,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2020-05-05T23:54:36.6178611+07:00"
+    created: "2020-05-07T00:42:50.3163775+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -29,4 +45,4 @@ entries:
     urls:
     - https://arkadym.github.io/helm/kube-backup-1.tgz
     version: "1"
-generated: "2020-05-05T23:54:36.6158661+07:00"
+generated: "2020-05-07T00:42:50.3015658+07:00"
