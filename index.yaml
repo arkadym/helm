@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   elasticsearch:
   - apiVersion: v1
-    created: "2020-05-07T03:02:38.450735034Z"
+    created: "2020-05-07T03:19:00.952551238Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 44abb715013f714ddc779ed4857ca7a02185f845c92ef48a778cdf85b88c3596
@@ -18,7 +18,7 @@ entries:
     version: "1"
   kube-backup:
   - apiVersion: v1
-    created: "2020-05-07T03:02:38.451847837Z"
+    created: "2020-05-07T03:19:00.964210567Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -32,7 +32,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2020-05-07T03:02:38.452470138Z"
+    created: "2020-05-07T03:19:00.964880652Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -45,4 +45,4 @@ entries:
     urls:
     - https://arkadym.github.io/helm/kube-backup-1.tgz
     version: "1"
-generated: "2020-05-07T03:02:38.449642132Z"
+generated: "2020-05-07T03:19:00.930221457Z"
