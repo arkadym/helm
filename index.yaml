@@ -2,7 +2,37 @@ apiVersion: v1
 entries:
   elasticsearch:
   - apiVersion: v1
-    created: "2020-05-07T03:19:00.952551238Z"
+    created: "2020-07-26T23:58:38.6739498+07:00"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
+    digest: 7c858472fa60f286ae7b37710288ba7d01642c08f865f38d1271047e493b47cc
+    home: https://github.com/arkadym/elasticsearch
+    maintainers:
+    - email: arkadym@gmail.com
+      name: arkadym
+    name: elasticsearch
+    sources:
+    - https://github.com/arkadym/elasticsearch/tree/master/Chart/elasticsearch
+    urls:
+    - https://arkadym.github.io/helm/elasticsearch-1.2.tgz
+    version: "1.2"
+  - apiVersion: v1
+    created: "2020-07-26T23:58:38.6719491+07:00"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
+    digest: 8ef22cc2df3259880610fa9ea7578c706e946958c831d526aea3ed0c3e1e634d
+    home: https://www.elastic.co/
+    maintainers:
+    - email: company@actonica.ru
+      name: Actonica Containers Team
+    name: elasticsearch
+    sources:
+    - https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/Portus
+    urls:
+    - https://arkadym.github.io/helm/elasticsearch-1.1.tgz
+    version: "1.1"
+  - apiVersion: v1
+    created: "2020-07-26T23:58:38.6809248+07:00"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 44abb715013f714ddc779ed4857ca7a02185f845c92ef48a778cdf85b88c3596
@@ -18,7 +48,7 @@ entries:
     version: "1"
   kube-backup:
   - apiVersion: v1
-    created: "2020-05-07T03:19:00.964210567Z"
+    created: "2020-07-26T23:58:38.6829485+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -32,7 +62,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2020-05-07T03:19:00.964880652Z"
+    created: "2020-07-26T23:58:38.6899009+07:00"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -45,4 +75,20 @@ entries:
     urls:
     - https://arkadym.github.io/helm/kube-backup-1.tgz
     version: "1"
-generated: "2020-05-07T03:19:00.930221457Z"
+  onlyoffice:
+  - apiVersion: v1
+    created: "2020-07-26T23:58:38.6978795+07:00"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
+    digest: 31bb17d32148ea66a072e2a95a41dbfec0468be39c2d6118c542b12f6194e046
+    home: https://www.onlyoffice.com/
+    maintainers:
+    - email: company@actonica.ru
+      name: Actonica Containers Team
+    name: onlyoffice
+    sources:
+    - https://github.com/arkadym/onlyoffice
+    urls:
+    - https://arkadym.github.io/helm/onlyoffice-1.tgz
+    version: "1"
+generated: "2020-07-26T23:58:38.6549467+07:00"
