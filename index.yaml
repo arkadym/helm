@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   elasticsearch:
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.067565362Z"
+    created: "2021-01-23T17:10:51.809904053Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 41d2970c540c81251b6545813ffd7c5afb0ffefbdc4454c02a62418b03e87f3a
@@ -18,7 +18,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.066998365Z"
+    created: "2021-01-23T17:10:51.809591124Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 1310db4a5042fcceaf70c94092130d10d4c7312ed1e22780c96ab083ea1e9159
@@ -33,7 +33,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.066622366Z"
+    created: "2021-01-23T17:10:51.809275395Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 64aedb572232714dba8e3097cdc26f50e10caf0b7f475a1334b24a319f9f94fe
@@ -48,7 +48,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.066222468Z"
+    created: "2021-01-23T17:10:51.809025372Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: c89a9bb753bc869fb0b2ec19496edb59457d446784530bd71cb62a0c34a0b6b5
@@ -63,7 +63,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.06579887Z"
+    created: "2021-01-23T17:10:51.80878055Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 7c858472fa60f286ae7b37710288ba7d01642c08f865f38d1271047e493b47cc
@@ -78,7 +78,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.065206473Z"
+    created: "2021-01-23T17:10:51.808527827Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 8ef22cc2df3259880610fa9ea7578c706e946958c831d526aea3ed0c3e1e634d
@@ -93,7 +93,7 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.068091759Z"
+    created: "2021-01-23T17:10:51.810164177Z"
     description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
       are taken from Bitnami.
     digest: 44abb715013f714ddc779ed4857ca7a02185f845c92ef48a778cdf85b88c3596
@@ -109,7 +109,21 @@ entries:
     version: "1"
   kube-backup:
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.082703389Z"
+    created: "2021-01-23T17:10:51.81205425Z"
+    description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
+    digest: 7d5fcb370a9bdba45d73bbf6b7230eecd5254fa9ef3b3f2a3c21b1d4573565a2
+    home: https://github.com/arkadym/kube-backup
+    maintainers:
+    - email: arkadym@gmail.com
+      name: arkadym
+    name: kube-backup
+    sources:
+    - https://github.com/arkadym/kube-backup/tree/master/Chart/kube-backup
+    urls:
+    - https://arkadym.github.io/helm/kube-backup-1.6.tgz
+    version: "1.6"
+  - apiVersion: v1
+    created: "2021-01-23T17:10:51.811671515Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: f2aae04593875edf5c8f108f6ce789bce4c8d1caa1ede529171f22afad549a95
     home: https://github.com/arkadym/kube-backup
@@ -123,7 +137,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.082313491Z"
+    created: "2021-01-23T17:10:51.811323583Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 866e26d9fd6e81947429c20364afdcb4ca8437414d25c5c63c6208d40f72b719
     home: https://github.com/arkadym/kube-backup
@@ -137,7 +151,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.081823893Z"
+    created: "2021-01-23T17:10:51.810957549Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 9a09aa0fd04eced22a6cc73292f9e192d1a4fe9f2e8c636aa9411b225a838b36
     home: https://github.com/arkadym/kube-backup
@@ -151,7 +165,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.069054755Z"
+    created: "2021-01-23T17:10:51.810680524Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: b1029691f66bf2e95f0a725b908c9d1e6da3f267897d13ff5816940aa82c76c1
     home: https://github.com/arkadym/kube-backup
@@ -165,7 +179,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.068594957Z"
+    created: "2021-01-23T17:10:51.810430201Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -179,7 +193,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.083126387Z"
+    created: "2021-01-23T17:10:51.812396581Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -194,7 +208,7 @@ entries:
     version: "1"
   nextcloud:
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.258666242Z"
+    created: "2021-01-23T17:10:51.970628593Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -243,7 +257,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.25.tgz
     version: "1.25"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.249805784Z"
+    created: "2021-01-23T17:10:51.962156816Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -292,7 +306,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.24.tgz
     version: "1.24"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.239456234Z"
+    created: "2021-01-23T17:10:51.951345224Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -341,7 +355,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.23.tgz
     version: "1.23"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.231412173Z"
+    created: "2021-01-23T17:10:51.942121878Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -390,7 +404,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.22.tgz
     version: "1.22"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.222460416Z"
+    created: "2021-01-23T17:10:51.932716016Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -439,7 +453,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.21.tgz
     version: "1.21"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.206151195Z"
+    created: "2021-01-23T17:10:51.924734384Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -488,7 +502,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.20.tgz
     version: "1.20"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.186818388Z"
+    created: "2021-01-23T17:10:51.908026351Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -537,7 +551,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.19.tgz
     version: "1.19"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.175542242Z"
+    created: "2021-01-23T17:10:51.900471159Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -586,7 +600,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.18.tgz
     version: "1.18"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.165211492Z"
+    created: "2021-01-23T17:10:51.892298109Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -635,7 +649,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.17.tgz
     version: "1.17"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.157028531Z"
+    created: "2021-01-23T17:10:51.884645607Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -684,7 +698,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.16.tgz
     version: "1.16"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.146448582Z"
+    created: "2021-01-23T17:10:51.875549573Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -733,7 +747,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.15.tgz
     version: "1.15"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.13857112Z"
+    created: "2021-01-23T17:10:51.86864524Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -782,7 +796,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.14.tgz
     version: "1.14"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.128655168Z"
+    created: "2021-01-23T17:10:51.859726622Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -831,7 +845,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.13.tgz
     version: "1.13"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.120440307Z"
+    created: "2021-01-23T17:10:51.84978541Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -879,7 +893,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.12.tgz
     version: "1.12"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.112253947Z"
+    created: "2021-01-23T17:10:51.84170957Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -927,7 +941,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.11.tgz
     version: "1.11"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.103598488Z"
+    created: "2021-01-23T17:10:51.835079962Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -975,7 +989,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.10.tgz
     version: "1.10"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.326013417Z"
+    created: "2021-01-23T17:10:52.033825713Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1023,7 +1037,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.9.tgz
     version: "1.9"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.318594453Z"
+    created: "2021-01-23T17:10:52.026445978Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1071,7 +1085,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.8.tgz
     version: "1.8"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.3089285Z"
+    created: "2021-01-23T17:10:52.017787834Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1119,7 +1133,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.7.tgz
     version: "1.7"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.301298636Z"
+    created: "2021-01-23T17:10:52.009766844Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1167,7 +1181,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.290528888Z"
+    created: "2021-01-23T17:10:51.998635961Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1215,7 +1229,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.279006344Z"
+    created: "2021-01-23T17:10:51.990454611Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1263,7 +1277,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.268570394Z"
+    created: "2021-01-23T17:10:51.981425383Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1311,7 +1325,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.197883134Z"
+    created: "2021-01-23T17:10:51.916548233Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1359,7 +1373,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.095106829Z"
+    created: "2021-01-23T17:10:51.821635629Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1407,7 +1421,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.336803465Z"
+    created: "2021-01-23T17:10:52.042853489Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1456,7 +1470,7 @@ entries:
     version: "1"
   onlyoffice:
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.33794246Z"
+    created: "2021-01-23T17:10:52.043488344Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 0a233440a0effbd935fbfc54b31163f0f36661359b7b55d540ee07eefdba3db6
@@ -1472,7 +1486,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.10.tgz
     version: "1.10"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.340924146Z"
+    created: "2021-01-23T17:10:52.045736237Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: f2bd0a1a3cb376204ef5a1d54e80e257f86962a75a7de389adf2fec49a3ba308
@@ -1488,7 +1502,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.9.tgz
     version: "1.9"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.340510548Z"
+    created: "2021-01-23T17:10:52.045443012Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: d107a0e76390e32394afc40469d3a0180c373de0630d88ce70283839e27e4248
@@ -1503,7 +1517,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.8.tgz
     version: "1.8"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.34001175Z"
+    created: "2021-01-23T17:10:52.045124984Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 13609e71e6511678eaa52efd122562fd8787d02bb43a00035386ac72acc7a001
@@ -1518,7 +1532,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.7.tgz
     version: "1.7"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.339535952Z"
+    created: "2021-01-23T17:10:52.044669645Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 6db633949b51c2d57846afa9ba81fcec368a62fd9d2758ae04da3c755bbfad1d
@@ -1533,7 +1547,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.339131154Z"
+    created: "2021-01-23T17:10:52.04438022Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 234b5636741200e211eaf9c4d388eb438906bd1feadc688ca06637d25464ab2d
@@ -1548,7 +1562,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.338715856Z"
+    created: "2021-01-23T17:10:52.044085795Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 993ce701e00d8dd65eb4ab1c31f1eccfb017c8207668bff782ccabb7e0de73b9
@@ -1563,7 +1577,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.338332058Z"
+    created: "2021-01-23T17:10:52.043788969Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: fd0dfb9a9e926a140667a296ae87e47a1ae0359e84d8c79a44fcb468dac58f71
@@ -1578,7 +1592,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.337401063Z"
+    created: "2021-01-23T17:10:52.043176417Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 10e915de5806ec56ef94ec21e808a3241ccacf42be0217820aa140a70f1369b0
@@ -1593,7 +1607,7 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2021-01-11T16:45:57.341380343Z"
+    created: "2021-01-23T17:10:52.046030162Z"
     description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
       taken from Bitnami.
     digest: 31bb17d32148ea66a072e2a95a41dbfec0468be39c2d6118c542b12f6194e046
@@ -1607,4 +1621,4 @@ entries:
     urls:
     - https://arkadym.github.io/helm/onlyoffice-1.tgz
     version: "1"
-generated: "2021-01-11T16:45:57.05758621Z"
+generated: "2021-01-23T17:10:51.808098587Z"
