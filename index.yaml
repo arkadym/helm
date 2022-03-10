@@ -2,8 +2,9 @@ apiVersion: v1
 entries:
   elasticsearch:
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3444526+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.483528009Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 41d2970c540c81251b6545813ffd7c5afb0ffefbdc4454c02a62418b03e87f3a
     home: https://github.com/arkadym/elasticsearch
     icon: https://helm.elastic.co/icons/elasticsearch.png
@@ -17,8 +18,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3436368+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.483015999Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 1310db4a5042fcceaf70c94092130d10d4c7312ed1e22780c96ab083ea1e9159
     home: https://github.com/arkadym/elasticsearch
     maintainers:
@@ -31,8 +33,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3423968+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.482514289Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 64aedb572232714dba8e3097cdc26f50e10caf0b7f475a1334b24a319f9f94fe
     home: https://github.com/arkadym/elasticsearch
     maintainers:
@@ -45,8 +48,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3414833+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.482102381Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: c89a9bb753bc869fb0b2ec19496edb59457d446784530bd71cb62a0c34a0b6b5
     home: https://github.com/arkadym/elasticsearch
     maintainers:
@@ -59,8 +63,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3403961+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.481597971Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 7c858472fa60f286ae7b37710288ba7d01642c08f865f38d1271047e493b47cc
     home: https://github.com/arkadym/elasticsearch
     maintainers:
@@ -73,8 +78,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3393934+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.481078161Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 8ef22cc2df3259880610fa9ea7578c706e946958c831d526aea3ed0c3e1e634d
     home: https://www.elastic.co/
     maintainers:
@@ -87,8 +93,9 @@ entries:
     - https://arkadym.github.io/helm/elasticsearch-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3444526+07:00"
-    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.483935016Z"
+    description: A Elasticsearch Helm chart for Kubernetes. Idea and docker images
+      are taken from Bitnami.
     digest: 44abb715013f714ddc779ed4857ca7a02185f845c92ef48a778cdf85b88c3596
     home: https://www.elastic.co/
     maintainers:
@@ -102,7 +109,7 @@ entries:
     version: "1"
   kube-backup:
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3524307+07:00"
+    created: "2022-03-10T21:28:07.48773429Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: e3b849be795dd0cb8d308551278826115d854de9713548b25d80fe71bd04af87
     home: https://github.com/arkadym/kube-backup
@@ -116,7 +123,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.7.tgz
     version: "1.7"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3493968+07:00"
+    created: "2022-03-10T21:28:07.487160079Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 7d5fcb370a9bdba45d73bbf6b7230eecd5254fa9ef3b3f2a3c21b1d4573565a2
     home: https://github.com/arkadym/kube-backup
@@ -130,7 +137,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3474644+07:00"
+    created: "2022-03-10T21:28:07.486426665Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: f2aae04593875edf5c8f108f6ce789bce4c8d1caa1ede529171f22afad549a95
     home: https://github.com/arkadym/kube-backup
@@ -144,7 +151,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3474644+07:00"
+    created: "2022-03-10T21:28:07.485985856Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 866e26d9fd6e81947429c20364afdcb4ca8437414d25c5c63c6208d40f72b719
     home: https://github.com/arkadym/kube-backup
@@ -158,7 +165,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3464572+07:00"
+    created: "2022-03-10T21:28:07.485551948Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 9a09aa0fd04eced22a6cc73292f9e192d1a4fe9f2e8c636aa9411b225a838b36
     home: https://github.com/arkadym/kube-backup
@@ -172,7 +179,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3454559+07:00"
+    created: "2022-03-10T21:28:07.485031738Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: b1029691f66bf2e95f0a725b908c9d1e6da3f267897d13ff5816940aa82c76c1
     home: https://github.com/arkadym/kube-backup
@@ -186,7 +193,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3454559+07:00"
+    created: "2022-03-10T21:28:07.484492427Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: 475bf5267835ff346b89fe7a00f59eafe792fa473adea3c4e040be57531b989b
     home: http://www.actonica.com
@@ -200,7 +207,7 @@ entries:
     - https://arkadym.github.io/helm/kube-backup-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3524307+07:00"
+    created: "2022-03-10T21:28:07.488334802Z"
     description: A Backup Helm chart for Kubernetes. Support backup mysql and folders
     digest: c06b60f8012f84279233c248765f339e5a03fb2573668acc5797b0a173126c0b
     home: http://www.actonica.com
@@ -215,7 +222,7 @@ entries:
     version: "1"
   nextcloud:
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.567039+07:00"
+    created: "2022-03-10T21:28:07.688707778Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -249,7 +256,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.5
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 30ad8796d66b2ed4f65641fd983f7a7484ae92e2d2210aca6093e8850e40b874
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -263,7 +271,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.26.tgz
     version: "1.26"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5572567+07:00"
+    created: "2022-03-10T21:28:07.679423799Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -297,7 +305,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.5
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: d4f39a98e28da857908b99e60ef2120f04aab68a6f3bb1af4f902312008ea4e7
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -311,7 +320,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.25.tgz
     version: "1.25"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5450408+07:00"
+    created: "2022-03-10T21:28:07.669059298Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -345,7 +354,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.5
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 9a75b1878268a204d730d2cb4a1d1943efe6dd513df1b958e2887f460e471d93
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -359,7 +369,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.24.tgz
     version: "1.24"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5360431+07:00"
+    created: "2022-03-10T21:28:07.65573134Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -393,7 +403,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 742d75317645bb989e74abe8ada3e5e09d1dd290994a9d4b5f364d67dd8411c4
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -407,7 +418,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.23.tgz
     version: "1.23"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5250604+07:00"
+    created: "2022-03-10T21:28:07.647309277Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -441,7 +452,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 49fb8d035052b2cf179292c5f2d58c9da810a35d0867fe9224265f2c24f67ee0
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -455,7 +467,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.22.tgz
     version: "1.22"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5150889+07:00"
+    created: "2022-03-10T21:28:07.636972877Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -489,7 +501,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 8514232b073eccf3407ee82f580b4ddf281186c292b0d2532e6f541e43f03713
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -503,7 +516,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.21.tgz
     version: "1.21"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5059871+07:00"
+    created: "2022-03-10T21:28:07.627683598Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -537,7 +550,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: a92b05ed93b7c212df3a5bc585f5778f8f320f990643473a742a7789b8beccdc
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -551,7 +565,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.20.tgz
     version: "1.20"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4859952+07:00"
+    created: "2022-03-10T21:28:07.6071203Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -585,7 +599,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 1422ced317f9b4ae0abe2da2eede4592f7aeb770268d218c1e1caee277f926c7
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -599,7 +614,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.19.tgz
     version: "1.19"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4749928+07:00"
+    created: "2022-03-10T21:28:07.598105325Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -633,7 +648,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: cc0b0f727c1d33d39966d6a7442437e53df73b889ab0f4ba5300d735227077a6
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -647,7 +663,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.18.tgz
     version: "1.18"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4649915+07:00"
+    created: "2022-03-10T21:28:07.587295016Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -681,7 +697,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 7738286a4004e419854b82c7737f4e6bc10c228ad83e303c52f365eaec3701f5
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -695,7 +712,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.17.tgz
     version: "1.17"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4569904+07:00"
+    created: "2022-03-10T21:28:07.578256941Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -729,7 +746,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 92275660e797728f54434aa7d004f04e553650129ced17c063ea5a8660eb94b3
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -743,7 +761,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.16.tgz
     version: "1.16"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4459863+07:00"
+    created: "2022-03-10T21:28:07.568928361Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -777,7 +795,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 442c74a0fd8435789db37651743978dcfe15c49be627d8eaae4f3a33d2cec667
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -791,7 +810,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.15.tgz
     version: "1.15"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.437026+07:00"
+    created: "2022-03-10T21:28:07.558095251Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -825,7 +844,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 16897a205bbfaa390e4a96ff972bf501c8b263cffa3bc8cd688f3b434182a52e
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -839,7 +859,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.14.tgz
     version: "1.14"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4250928+07:00"
+    created: "2022-03-10T21:28:07.548944574Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -873,7 +893,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: cc90027ec318fe11f6be180a18e45951745d638a3930d85816e69236766fd580
     home: https://github.com/arkadym/nextcloud
     icon: https://cdn.rawgit.com/docker-library/docs/defa5ffc7123177acd60ddef6e16bddf694cc35f/nextcloud/logo.svg
@@ -887,7 +908,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.13.tgz
     version: "1.13"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4150451+07:00"
+    created: "2022-03-10T21:28:07.538519773Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -921,7 +942,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 7c59b576f04cefc67e20ca3cfd5b5c0ce376e6c252a7133d0f28145b1d0ee3a5
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -934,7 +956,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.12.tgz
     version: "1.12"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4060493+07:00"
+    created: "2022-03-10T21:28:07.528018869Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -968,7 +990,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 7264414f50b4032f5a2af65153f6ff3f1fe6217789371e783be6824c48590db2
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -981,7 +1004,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.11.tgz
     version: "1.11"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3940408+07:00"
+    created: "2022-03-10T21:28:07.519460804Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1015,7 +1038,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 124df95c5c71c9bd807e16e3df62fd435d4c911423706f271f384159d9eb817c
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1028,7 +1052,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.10.tgz
     version: "1.10"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6409959+07:00"
+    created: "2022-03-10T21:28:07.76322482Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1062,7 +1086,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: a125dd24aa5b7147d1947843c3d2ef54c495255a9f7d4606b23f9be83b9f4ca5
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1075,7 +1100,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.9.tgz
     version: "1.9"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.631031+07:00"
+    created: "2022-03-10T21:28:07.753666135Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1109,7 +1134,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 521309dbdd2ff37602b971ddafb914d95816042f11b38691d7f67e8f512b0b69
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1122,7 +1148,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.8.tgz
     version: "1.8"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6220256+07:00"
+    created: "2022-03-10T21:28:07.744733862Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1156,7 +1182,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.4
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 1dfcd991ac88861f8d566913ca76de873d2753a4fb7fc33e58d95d5baa6555fc
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1169,7 +1196,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.7.tgz
     version: "1.7"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.611992+07:00"
+    created: "2022-03-10T21:28:07.735453283Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1203,7 +1230,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 3797a5ca111017f4f9c4fc240a608e0a20f9d49c832e169d99234b824ef6b44a
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1216,7 +1244,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6011668+07:00"
+    created: "2022-03-10T21:28:07.724484971Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1250,7 +1278,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 6c144cac2ec079f64f8597a85f6e107a61af5f5db26adcb9f0d37ac91b28b579
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1263,7 +1292,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.5.tgz
     version: "1.5"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.5909863+07:00"
+    created: "2022-03-10T21:28:07.713413356Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1297,7 +1326,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 7a96944d1044d6fe0fdca5b30b0db8a461dc6f0e4d67567817c867d0a1b85cc2
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1310,7 +1340,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.579062+07:00"
+    created: "2022-03-10T21:28:07.701162419Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1344,7 +1374,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 7c39f01488d9e7e074cceb56d0977f8ec8af23002366833a8eb0dd3c437f00fd
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1357,7 +1388,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.4960388+07:00"
+    created: "2022-03-10T21:28:07.618121313Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1391,7 +1422,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 60fb70a2fcbfc28211e9e7e21e5575184b8451e45f803677938984e732d1db95
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1404,7 +1436,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.3860383+07:00"
+    created: "2022-03-10T21:28:07.50169926Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1438,7 +1470,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: c27b870a23ef8fac901e99e1456c61a32650e80249d44a7fe8c3b9f6b37b7034
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1451,7 +1484,7 @@ entries:
     - https://arkadym.github.io/helm/nextcloud-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6520253+07:00"
+    created: "2022-03-10T21:28:07.773462818Z"
     dependencies:
     - alias: database
       condition: database.enabled
@@ -1485,7 +1518,8 @@ entries:
       name: kube-backup
       repository: https://arkadym.github.io/helm
       version: ~1.2
-    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    description: A Nexcloud Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 6fefb4d74b9a6e94d723849bc86d9bfa4f6bf249526d4345d63070a969f943fa
     home: https://github.com/arkadym/nextcloud
     maintainers:
@@ -1499,8 +1533,9 @@ entries:
     version: "1"
   onlyoffice:
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6530099+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.774364836Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 0a233440a0effbd935fbfc54b31163f0f36661359b7b55d540ee07eefdba3db6
     home: https://github.com/arkadym/onlyoffice
     icon: https://avatars1.githubusercontent.com/u/1426033?s=200&v=4
@@ -1514,8 +1549,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.10.tgz
     version: "1.10"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6575113+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.7776765Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: f2bd0a1a3cb376204ef5a1d54e80e257f86962a75a7de389adf2fec49a3ba308
     home: https://github.com/arkadym/onlyoffice
     icon: https://avatars1.githubusercontent.com/u/1426033?s=200&v=4
@@ -1529,8 +1565,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.9.tgz
     version: "1.9"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6569948+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.777264092Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: d107a0e76390e32394afc40469d3a0180c373de0630d88ce70283839e27e4248
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1543,8 +1580,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.8.tgz
     version: "1.8"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6559918+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.776842884Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 13609e71e6511678eaa52efd122562fd8787d02bb43a00035386ac72acc7a001
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1557,8 +1595,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.7.tgz
     version: "1.7"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6559918+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.776395375Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 6db633949b51c2d57846afa9ba81fcec368a62fd9d2758ae04da3c755bbfad1d
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1571,8 +1610,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.6.tgz
     version: "1.6"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6550437+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.775661861Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 234b5636741200e211eaf9c4d388eb438906bd1feadc688ca06637d25464ab2d
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1585,8 +1625,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.4.tgz
     version: "1.4"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6550437+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.775242453Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 993ce701e00d8dd65eb4ab1c31f1eccfb017c8207668bff782ccabb7e0de73b9
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1599,8 +1640,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.3.tgz
     version: "1.3"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6542001+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.774813444Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: fd0dfb9a9e926a140667a296ae87e47a1ae0359e84d8c79a44fcb468dac58f71
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1613,8 +1655,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.2.tgz
     version: "1.2"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6530099+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.773935427Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 10e915de5806ec56ef94ec21e808a3241ccacf42be0217820aa140a70f1369b0
     home: https://github.com/arkadym/onlyoffice
     maintainers:
@@ -1627,8 +1670,9 @@ entries:
     - https://arkadym.github.io/helm/onlyoffice-1.1.tgz
     version: "1.1"
   - apiVersion: v1
-    created: "2022-03-11T04:27:11.6580173+07:00"
-    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are taken from Bitnami.
+    created: "2022-03-10T21:28:07.77821961Z"
+    description: A OnlyOffice Helm chart for Kubernetes. Idea and docker images are
+      taken from Bitnami.
     digest: 31bb17d32148ea66a072e2a95a41dbfec0468be39c2d6118c542b12f6194e046
     home: https://www.onlyoffice.com/
     maintainers:
@@ -1640,4 +1684,4 @@ entries:
     urls:
     - https://arkadym.github.io/helm/onlyoffice-1.tgz
     version: "1"
-generated: "2022-03-11T04:27:11.338397+07:00"
+generated: "2022-03-10T21:28:07.479764236Z"
